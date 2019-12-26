@@ -1,0 +1,19 @@
+{
+  "appKey": "UwRCZQfiqPI4qIhvU5H38vggJ4bQfzxo",
+  "appSecret": "QOLgbmz0kwyAf2nAgLhiq59A7Gw00o4I",
+  "projectId": "2c8e1e78b15f68a36b3db950828ef650",
+  "id": 351,
+  "name": "tesss",
+  "framework": "vue",
+  "platform": "pc",
+  "description": "",
+  "git": {
+    "url": "https://github.com/chenxing-lh/dev1226-7.git",
+    "isPrivate": 0,
+    "username": "381606250@qq.com",
+    "password": "lh15627836616"
+  },
+  "alias": {},
+  "pages": [],
+  "dependencies": []
+}
